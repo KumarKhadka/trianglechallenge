@@ -1,5 +1,5 @@
 .left {
-    width: 18%;
+    width: 30%;
     float: left;
     margin-top: 15px;
 
@@ -14,7 +14,7 @@
 }
 
 .btn{
-  width: 35%;
+  width: 45%;
 text-align: right;
 float: left;
 margin-top: 15px;
